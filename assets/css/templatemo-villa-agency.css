@@ -159,7 +159,7 @@ body {
 
 .icon-button a {
   display: inline-block;
-  background-color: #1e1e1e;
+  background-color: #4f6d7a;
   color: #fff;
   font-size: 14px;
   font-weight: 400;
@@ -192,7 +192,7 @@ body {
 
 .main-button a {
   display: inline-block;
-  background-color: #1e1e1e;
+  background-color:  #4f6d7a;
   color: #fff;
   font-size: 14px;
   font-weight: 500;
@@ -464,7 +464,7 @@ Header Style
 }
 
 .header-area .main-nav .nav li:last-child a {
-  background-color: #1e1e1e;
+  background-color: #4f6d7a;
   color: #fff;
   font-size: 14px;
   font-weight: 400;
@@ -640,7 +640,7 @@ Header Style
     line-height: 50px;
     height: 50px;
     font-weight: 400;
-    color: #1e1e1e;
+    color:#4f6d7a;
     background-color: #fff;
      border-radius: 0px 0px 25px 25px;
   }
@@ -956,7 +956,6 @@ Featured Style
 Video Style
 --------------------------------------------- 
 */
-
 .video {
   background-image: url(../images/image8.jpg);
   background-repeat: no-repeat;
@@ -1000,10 +999,13 @@ Video Style
   outline: 15px solid rgba(254, 85, 37, 0.5);
   font-size: 18px;
 }
+/* Style pour le conteneur de la vidéo avec une image de fond */
+
 
 /* 
 ---------------------------------------------
 Fun Facts Style
+
 --------------------------------------------- 
 */
 
@@ -1071,7 +1073,7 @@ Best Deal Style
 .best-deal .tabs-content .nav-link {
   font-size: 16px;
   font-weight: 500;
-  background-color: #1e1e1e !important;
+  background-color: #4f6d7a !important;
   border-radius: 5px;
   height: 50px;
   line-height: 50px;
@@ -1180,7 +1182,7 @@ Properties Style
 }
 
 .properties .item h4 a {
-  color: #1e1e1e;
+  color: #4f6d7a;
 }
 
 .properties .item ul li {
@@ -1344,7 +1346,7 @@ Page Header Style
 */
 
 .page-heading {
-  background-image: url(../images/page-heading-bg.jpg);
+  background-image: url(../images/image27.jpg);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1436,7 +1438,7 @@ Properties Style
   height: 40px;
   line-height: 40px;
   text-align: center;
-  background-color: #1e1e1e;
+  background-color: #c0d6df;
   color: #fff;
   font-size: 15px;
   font-weight: 600;
@@ -1645,7 +1647,7 @@ Contact Page Style
 }
 
 .contact-page #contact-form button {
-  background-color: #1e1e1e;
+  background-color: #4f6d7a;
   height: 44px;
   border-radius: 22px;
   padding: 0px 20px;
@@ -1657,7 +1659,7 @@ Contact Page Style
 }
 
 .contact-page #contact-form button:hover {
-  background-color: #f35525;
+  background-color: #dd6e42;
 }
 
 
