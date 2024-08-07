@@ -1163,6 +1163,9 @@ Properties Style
 
 .properties .item img {
   border-radius: 10px;
+  height: 200px;
+  width: 350px;
+  max-width: 100%;
 }
 
 .properties .item span.category {
